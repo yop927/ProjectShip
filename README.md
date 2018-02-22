@@ -12,8 +12,8 @@ Login/Sign Up page
 - They will be asked to create an ID and Password
 
 Profile Page
--Users will be asked to input Email/Gender/Major/Grade/Number of Partners/Comments/Image.
--All of the received data will be stored to the database. (phpMyAdmin)
+- Users will be asked to input Email/Gender/Major/Grade/Number of Partners/Comments/Image.
+- All of the received data will be stored to the database. (phpMyAdmin)
 
 Matching Page
 - A currently signed user can choose/view the list of people by his/her preference.
